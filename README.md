@@ -3,3 +3,4 @@
 ![](https://komarev.com/ghpvc/?username=applepieeeeee&color=f2c6bb)
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=applepieeeeee&layout=compact&theme=default)](https://github.com/applepieeeeee/github-readme-stats)
+[![Clair's GitHub stats](https://github-readme-stats.vercel.app/api?username=applepieeeeee)](https://github.com/applepieeeeee/github-readme-stats)
